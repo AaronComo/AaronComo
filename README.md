@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=5000&color=000000&vCenter=true&multiline=true&repeat=false&width=1000&height=70&lines=Welcome+to+AaronComo's+Homepage!" alt="Typing SVG" />
 
-<!--
-**AaronComo/AaronComo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=000000&vCenter=true&multiline=true&repeat=false&width=1000&lines=%E2%9D%96+Code%3F" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncomo&theme=tokyonight&layout=compact&langs_count=8&include_all_commits=true" height="190px">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&color=000000&vCenter=true&multiline=true&repeat=false&width=1000&height=90&lines=+;%E2%9D%96+Or+a+piece+of+music%3F" alt="Typing SVG" /></a>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="https://stats.justsong.cn/api/bilibili/?id=109154364&theme=tokyonight" height="205px">
+</div>
+
