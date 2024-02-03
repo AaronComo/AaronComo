@@ -1,15 +1,38 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=5000&color=6497AF&vCenter=true&multiline=true&repeat=false&width=1000&height=70&lines=Welcome+to+AaronComo's+Homepage!✨" alt="Typing SVG" />
+<div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=5000&color=6497AF&center=true&multiline=true&repeat=false&width=1000&height=70&lines=✨+Welcome+to+AaronComo's+GitHub+✨"
+        alt="Typing SVG" />
+    <div>
+        <p align="center">
+            <b>[ </b>
+            <a href="https://aaroncomo.github.io" target="_blank"><b>Homepage</b></a>
+            <b>] · [</b>
+            <a href="https://space.bilibili.com/109154364" target="_blank"><b>bilibili</b></a>
+            <b>] · [</b>
+            <a href="https://scholar.google.com/citations?user=VCPVx3QAAAAJ" target="_blank"><b>Google Scholar</b></a>
+            <b> ]</b>
+        </p>
+    </div>
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6f6f6f&vCenter=true&multiline=true&repeat=false&width=1000&lines=%E2%9D%96+Code%3F" alt="Typing SVG" /></a>
- -->
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncomo&theme=tokyonight&layout=compact&langs_count=8&include_all_commits=true" height="190px">
+   ------
+
+   <p align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api?username=aaroncomo&theme=nord&count_private=true&show_icons=true&include_all_commits=true">
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://github-readme-stats.vercel.app/api?username=aaroncomo&theme=catppuccin_latte&count_private=true&show_icons=true&include_all_commits=true">
+            <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
+                src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
+                height="184px">
+        </picture>
+        <picture>
+            <source media="(prefers-color-scheme: dark)"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncomo&theme=nord&layout=compact&langs_count=8&include_all_commits=true">
+            <source media="(prefers-color-scheme: light)"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aaroncomo&theme=catppuccin_latte&layout=compact&langs_count=8&include_all_commits=true">
+            <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
+                src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
+                height="184px">
+        </picture>
+    </p>
 </div>
-<!-- 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&color=6f6f6f&vCenter=true&multiline=true&repeat=false&width=1000&height=90&lines=+;%E2%9D%96+Or+a+piece+of+music%3F" alt="Typing SVG" /></a>
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=109154364&theme=tokyonight" height="205px">
-</div>
- -->
