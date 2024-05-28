@@ -14,13 +14,12 @@
     </div>
 
    ------
-
    <p align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)"
-                srcset="https://github-readme-stats.vercel.app/api?username=aaroncomo&theme=nord&count_private=true&show_icons=true&include_all_commits=true">
+                srcset="https://github-readme-stats.vercel.app/api?username=aaroncomo&show_icons=true&theme=nord&include_all_commits=true">
             <source media="(prefers-color-scheme: light)"
-                srcset="https://github-readme-stats.vercel.app/api?username=aaroncomo&theme=catppuccin_latte&count_private=true&show_icons=true&include_all_commits=true">
+                srcset="https://github-readme-stats.vercel.app/api?username=aaroncomo&theme=catppuccin_latte&show_icons=true&include_all_commits=true">
             <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode."
                 src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"
                 height="184px">
