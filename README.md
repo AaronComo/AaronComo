@@ -8,12 +8,13 @@
             <b>] · [</b>
             <a href="https://space.bilibili.com/109154364" target="_blank"><b>bilibili</b></a>
             <b>] · [</b>
-            <a href="https://scholar.google.com/citations?user=VCPVx3QAAAAJ" target="_blank"><b>Google Scholar</b></a>
+            <a href="https://scholar.google.com/citations?user=HtYgNjsAAAAJ" target="_blank"><b>Google Scholar</b></a>
             <b> ]</b>
         </p>
     </div>
 
-   ------
+
+------
    <p align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)"
@@ -35,3 +36,4 @@
         </picture>
     </p>
 </div>
+
