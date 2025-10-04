@@ -6,7 +6,7 @@
             <b>[ </b>
             <a href="https://aaroncomo.github.io" target="_blank"><b>Homepage</b></a>
             <b>] · [</b>
-            <a href="https://space.bilibili.com/109154364" target="_blank"><b>bilibili</b></a>
+            <a href="https://space.bilibili.com/109154364" target="_blank"><b>Bilibili</b></a>
             <b>] · [</b>
             <a href="https://scholar.google.com/citations?user=HtYgNjsAAAAJ" target="_blank"><b>Google Scholar</b></a>
             <b> ]</b>
@@ -36,4 +36,3 @@
         </picture>
     </p>
 </div>
-
